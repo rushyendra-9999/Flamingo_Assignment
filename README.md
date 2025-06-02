@@ -29,6 +29,10 @@
 - Enter the number of nodes(modules) = n in the graph. Then True or false will be printed according to whether cycle is present or not respectively
 
 
+## Q3 - Fireworks using WebGL 
+- The logic is in JavaScript, and render particles on an HTML <canvas> using WebGL 2.0 shaders.
+- Clone the repository => git clone https://github.com/rushyendra-9999/Flamingo_Assignment.git
+- Run index.html in fireworks folder with Live Server in VS code.
   
 
 
