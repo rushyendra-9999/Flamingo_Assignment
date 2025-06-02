@@ -10,10 +10,9 @@
   Initializes the board and starts the recursive `solve` function. Returns all valid board configurations.
 
 ### Compilation (How to run in bash):
-  g++ -o nqueens nqueens.cpp
-  ./nqueens
-
-  After running the code , enter the size of board(n), then output will be printed
+- g++ -o nqueens nqueens.cpp
+- ./nqueens
+- After running the code , enter the size of board(n), then output will be printed
 
 
 ## Q2 - Cycle Detection in Graph - Algorithm Used
@@ -25,10 +24,9 @@
 - If during DFS we reach a node that is already in the current path (`pathVis[node] == true`), a cycle is detected.
 
 ### Compilation (How to run in bash):
-  g++ -o detect_cycle cycle.cpp
-  ./detect_cycle
-
-  Enter the number of nodes(modules) = n in the graph. Then True or false will be printed according to whether cycle is present or not respectively
+- g++ -o detect_cycle cycle.cpp
+- ./detect_cycle
+- Enter the number of nodes(modules) = n in the graph. Then True or false will be printed according to whether cycle is present or not respectively
 
 
   
